@@ -11,7 +11,7 @@ matchs['EIRC-960-3'] = {"id":"0", "lega":"EIRC-960", "giornata":3, "data":"20/11
 "avversarioName":"","risultato":"Non disputata", "giocatori":"", "score":"", "url" : ""};
 matchs['EIRC-960-4'] = {"id":"1554975", "lega":"EIRC-960", "giornata":4, "data":"17/12/2023", "daCaricare" : true};
 matchs['EIRC-960-5'] = {"id":"1568923", "lega":"EIRC-960", "giornata":5, "data":"21/01/2024", "daCaricare" : true};
-matchs['EIRC-960-6'] = {"id":"", "lega":"EIRC-960", "giornata":6, "data":"19/02/2024", "daCaricare" : true};
+matchs['EIRC-960-6'] = {"id":"1582809", "lega":"EIRC-960", "giornata":6, "data":"18/02/2024", "daCaricare" : true};
 matchs['EIRC-960-7'] = {"id":"", "lega":"EIRC-960", "giornata":7, "data":"19/03/2024", "daCaricare" : true};
 matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/2024", "daCaricare" : true};
 
