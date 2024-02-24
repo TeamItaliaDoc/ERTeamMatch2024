@@ -19,7 +19,7 @@ matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/
 matchs['EIRC-1700-1'] = {"id":"1541603", "lega":"EIRC-1700", "giornata":"Q1", "data":"05/11/2023", "daCaricare" : true};
 matchs['EIRC-1700-2'] = {"id":"1547207", "lega":"EIRC-1700", "giornata":"Q2", "data":"26/11/2023", "daCaricare" : true};
 matchs['EIRC-1700-3'] = {"id":"1554973", "lega":"EIRC-1700", "giornata":"Q3", "data":"17/12/2023", "daCaricare" : true};
-matchs['EIRC-1700-4'] = {"id":"", "lega":"EIRC-1700", "giornata": "Quarti di finale", "data":"16/04/2023", "daCaricare" : true};
+matchs['EIRC-1700-4'] = {"id":"", "lega":"EIRC-1700", "giornata": "Quarti di finale", "data":"03/0/2023", "daCaricare" : true};
 matchs['EIRC-1700-5'] = {"id":"", "lega":"EIRC-1700", "giornata":5, "data":"//2023", "daCaricare" : true};
 matchs['EIRC-1700-6'] = {"id":"", "lega":"EIRC-1700", "giornata":6, "data":"//2023", "daCaricare" : true};
 matchs['EIRC-1700-7'] = {"id":"", "lega":"EIRC-1700", "giornata":7, "data":"//2023", "daCaricare" : true};
@@ -31,7 +31,7 @@ matchs['EIRC-MASTER-1'] = {"id":"0", "lega":"EIRC-MASTER", "giornata":1, "data":
 "avversarioName":"","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};
 matchs['EIRC-MASTER-2'] = {"id":"1557385", "lega":"EIRC-MASTER", "giornata":2, "data":"24/12/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-3'] = {"id":"1572289", "lega":"EIRC-MASTER", "giornata":3, "data":"28/01/2024", "daCaricare" : true};
-matchs['EIRC-MASTER-4'] = {"id":"", "lega":"EIRC-MASTER", "giornata":4, "data":"12/02/2024", "daCaricare" : true};
+matchs['EIRC-MASTER-4'] = {"id":"1589155", "lega":"EIRC-MASTER", "giornata":4, "data":"03/03/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-5'] = {"id":"", "lega":"EIRC-MASTER", "giornata":5, "data":"23/04/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-6'] = {"id":"", "lega":"EIRC-MASTER", "giornata":6, "data":"28/05/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/06/2024", "daCaricare" : true};
