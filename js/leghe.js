@@ -37,9 +37,9 @@ matchs['EIRC-MASTER-6'] = {"id":"", "lega":"EIRC-MASTER", "giornata":6, "data":"
 matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/06/2024", "daCaricare" : true};
 
 //CIS - Qualificazioni
-matchs['CIS-Q-1'] = {"id":"", "lega":"CIS-Q", "giornata":1, "data":"20/02/2023", "daCaricare" : true};
-matchs['CIS-Q-2'] = {"id":"", "lega":"CIS-Q", "giornata":2, "data":"13/03/2023", "daCaricare" : true};
-matchs['CIS-Q-3'] = {"id":"", "lega":"CIS-Q", "giornata":3, "data":"03/04/2023", "daCaricare" : true};
+matchs['CIS-Q-1'] = {"id":"1593553", "lega":"CIS-Q", "giornata":1, "data":"05/03/2024", "daCaricare" : true};
+matchs['CIS-Q-2'] = {"id":"", "lega":"CIS-Q", "giornata":2, "data":"/03/2024", "daCaricare" : true};
+matchs['CIS-Q-3'] = {"id":"", "lega":"CIS-Q", "giornata":3, "data":"/04/2024", "daCaricare" : true};
 matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "daCaricare" : true};
 
 //CIS - Finali
