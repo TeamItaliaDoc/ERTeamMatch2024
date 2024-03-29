@@ -196,7 +196,7 @@ function calcolaClassificaGiocatori()
                 oldMax = max;
                 oldSpareggio = maxSpareggio;
             }    
-           giocatori[username].posizione = posizione + 1;   // + 1 altrimnti se non ci sono incontri terminati va in loop
+           giocatori[username].posizione = posizione;   // + 1 altrimnti se non ci sono incontri terminati va in loop
            //Stampo il giocatore
            stampaGiocatore(username);
 
