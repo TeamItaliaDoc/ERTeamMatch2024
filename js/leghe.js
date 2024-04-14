@@ -32,15 +32,15 @@ matchs['EIRC-MASTER-1'] = {"id":"0", "lega":"EIRC-MASTER", "giornata":1, "data":
 matchs['EIRC-MASTER-2'] = {"id":"1557385", "lega":"EIRC-MASTER", "giornata":2, "data":"24/12/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-3'] = {"id":"1572289", "lega":"EIRC-MASTER", "giornata":3, "data":"28/01/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-4'] = {"id":"1589155", "lega":"EIRC-MASTER", "giornata":4, "data":"03/03/2024", "daCaricare" : true};
-matchs['EIRC-MASTER-5'] = {"id":"", "lega":"EIRC-MASTER", "giornata":5, "data":"23/04/2024", "daCaricare" : true};
+matchs['EIRC-MASTER-5'] = {"id":"1604439", "lega":"EIRC-MASTER", "giornata":5, "data":"07/04/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-6'] = {"id":"", "lega":"EIRC-MASTER", "giornata":6, "data":"28/05/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/06/2024", "daCaricare" : true};
 
 //CIS - Qualificazioni
 matchs['CIS-Q-1'] = {"id":"1593553", "lega":"CIS-Q", "giornata":1, "data":"05/03/2024", "daCaricare" : true};
-matchs['CIS-Q-2'] = {"id":"", "lega":"CIS-Q", "giornata":2, "data":"/03/2024", "daCaricare" : true};
-matchs['CIS-Q-3'] = {"id":"", "lega":"CIS-Q", "giornata":3, "data":"/04/2024", "daCaricare" : true};
-matchs['CIS-Q-4'] = {"id":"", "lega":"CIS-Q", "giornata":4, "data":"/0/2024", "daCaricare" : true};
+matchs['CIS-Q-2'] = {"id":"1606943", "lega":"CIS-Q", "giornata":2, "data":"09/04/2024", "daCaricare" : true};
+matchs['CIS-Q-3'] = {"id":"1610251", "lega":"CIS-Q", "giornata":3, "data":"15/04/2024", "daCaricare" : true};
+matchs['CIS-Q-4'] = {"id":"1614821", "lega":"CIS-Q", "giornata":4, "data":"23/04/2024", "daCaricare" : true};
 
 //CIS - Finali
 matchs['CIS-F-1'] = {"id":"", "lega":"CIS-F", "giornata":1, "data":"31/07/2023", "daCaricare" : true};
@@ -57,15 +57,13 @@ matchs['EIRC-KN-3'] = {"id":"", "lega":"EIRC-KN", "giornata":"semifinale", "data
 matchs['EIRC-KN-4'] = {"id":"", "lega":"EIRC-KN", "giornata":"finale", "data":"//2022", "daCaricare" : true};
 
 //EIRC-1400
-matchs['EIRC-1400-1'] = {"id":"1601037", "lega":"EIRC-1400", "giornata":1, "data":"29/01/2023", "daCaricare" : true};
-matchs['EIRC-1400-2'] = {"id":"", "lega":"EIRC-1400", "giornata":2, "data":"26/02/2023", "daCaricare" : true};
-matchs['EIRC-1400-3'] = {"id":"", "lega":"EIRC-1400", "giornata":3, "data":"26/03/2023", "daCaricare" : true};
-matchs['EIRC-1400-4'] = {"id":"", "lega":"EIRC-1400", "giornata":4, "data":"30/04/2023", "daCaricare" : true};
-matchs['EIRC-1400-5'] = {"id":"", "lega":"EIRC-1400", "giornata":5, "data":"28/05/2023", "daCaricare" : true};
-matchs['EIRC-1400-6'] = {"id":"", "lega":"EIRC-1400", "giornata":6, "data":"25/06/2023", "daCaricare" : true};
-matchs['EIRC-1400-7'] = {"id":"", "lega":"EIRC-1400", "giornata":7, "data":"30/07/2022", "daCaricare" : true};
-matchs['EIRC-1400-8'] = {"id":"", "lega":"EIRC-1400", "giornata":8, "data":"//2022", "daCaricare" : true};
-matchs['EIRC-1400-9'] = {"id":"", "lega":"EIRC-1400", "giornata":9, "data":"//2022", "daCaricare" : true};
+matchs['EIRC-1400-1'] = {"id":"1601037", "lega":"EIRC-1400", "giornata":1, "data":"29/01/2024", "daCaricare" : true};
+matchs['EIRC-1400-2'] = {"id":"1615821", "lega":"EIRC-1400", "giornata":2, "data":"28/02/2024", "daCaricare" : true};
+matchs['EIRC-1400-3'] = {"id":"", "lega":"EIRC-1400", "giornata":3, "data":"26/03/2024", "daCaricare" : true};
+matchs['EIRC-1400-4'] = {"id":"", "lega":"EIRC-1400", "giornata":4, "data":"30/04/2024", "daCaricare" : true};
+matchs['EIRC-1400-5'] = {"id":"", "lega":"EIRC-1400", "giornata":5, "data":"28/05/2024", "daCaricare" : true};
+matchs['EIRC-1400-6'] = {"id":"", "lega":"EIRC-1400", "giornata":6, "data":"25/06/2024", "daCaricare" : true};
+matchs['EIRC-1400-7'] = {"id":"", "lega":"EIRC-1400", "giornata":7, "data":"30/07/2024", "daCaricare" : true};
 
 //EIRC-GRAND-PRIX
 matchs['EIRC-GRAND-PRIX-1'] = {"id":"1572361", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"28/01/2024", "daCaricare" : true};
