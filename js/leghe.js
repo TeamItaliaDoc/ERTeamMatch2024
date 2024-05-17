@@ -26,6 +26,15 @@ matchs['EIRC-1700-7'] = {"id":"", "lega":"EIRC-1700", "giornata":7, "data":"//20
 matchs['EIRC-1700-8'] = {"id":"", "lega":"EIRC-1700", "giornata":8, "data":"//2023", "daCaricare" : true};
 matchs['EIRC-1700-9'] = {"id":"", "lega":"EIRC-1700", "giornata":9, "data":"//2023", "daCaricare" : true};
 
+//EIRC-1400 - 1700
+matchs['EIRC-1400-1700-1'] = {"id":"1630891", "lega":"EIRC-1400-1700", "giornata":1, "data":"02/06/2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-2'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":2, "data":"2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-3'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":3, "data":"2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-4'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":4, "data":"2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-5'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":5, "data":"//2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-6'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":6, "data":"//2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-7'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":7, "data":"//2024", "daCaricare" : true};
+
 //EIRC-MASTER
 matchs['EIRC-MASTER-1'] = {"id":"0", "lega":"EIRC-MASTER", "giornata":1, "data":"19/11/2023", "daCaricare" : true,
 "avversarioName":"","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};
