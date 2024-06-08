@@ -43,7 +43,7 @@ matchs['EIRC-MASTER-3'] = {"id":"1572289", "lega":"EIRC-MASTER", "giornata":3, "
 matchs['EIRC-MASTER-4'] = {"id":"1589155", "lega":"EIRC-MASTER", "giornata":4, "data":"03/03/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-5'] = {"id":"1604439", "lega":"EIRC-MASTER", "giornata":5, "data":"07/04/2024", "daCaricare" : true};
 matchs['EIRC-MASTER-6'] = {"id":"1622487", "lega":"EIRC-MASTER", "giornata":6, "data":"128/05/2024", "daCaricare" : true};
-matchs['EIRC-MASTER-7'] = {"id":"", "lega":"EIRC-MASTER", "giornata":7, "data":"02/06/2024", "daCaricare" : true};
+matchs['EIRC-MASTER-7'] = {"id":"1636013", "lega":"EIRC-MASTER", "giornata":7, "data":"16/06/2024", "daCaricare" : true};
 
 //CIS - Qualificazioni
 matchs['CIS-Q-1'] = {"id":"1593553", "lega":"CIS-Q", "giornata":1, "data":"05/03/2024", "daCaricare" : true};
