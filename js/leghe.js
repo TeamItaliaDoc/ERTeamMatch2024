@@ -92,8 +92,8 @@ matchs['1WL-GEO-6'] = {"id":"", "lega":"1WL-GEO", "giornata":6, "data":"13/11/20
 matchs['1WL-GEO-7'] = {"id":"", "lega":"1WL-GEO", "giornata":7, "data":"11/12/2021", "daCaricare" : true};
 
 //Amichevoli 
-matchs['AMICI-1'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"15/08/2023", "daCaricare" : true};
-matchs['AMICI-2'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+matchs['AMICI-1'] = {"id":"1639867", "lega":"AMICI", "giornata":1, "data":"23/06/2024", "daCaricare" : true};
+matchs['AMICI-2'] = {"id":"1639869", "lega":"AMICI", "giornata":2, "data":"23/06/2022", "daCaricare" : true};
 matchs['AMICI-3'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-4'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-5'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
