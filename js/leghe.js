@@ -15,6 +15,13 @@ matchs['EIRC-960-6'] = {"id":"1582809", "lega":"EIRC-960", "giornata":6, "data":
 matchs['EIRC-960-7'] = {"id":"1595301", "lega":"EIRC-960", "giornata":7, "data":"17/03/2024", "daCaricare" : true};
 matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/2024", "daCaricare" : true};
 
+//EIRC 960 Master
+matchs['EIRC-960-MASTER-1'] = {"id":"1660555", "lega":"EIRC-960-MASTER", "giornata":1, "data":"18/09/2023", "daCaricare" : true}; 
+matchs['EIRC-960-MASTER-2'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":2, "data":"15/10/2023", "daCaricare" : true};
+matchs['EIRC-960-MASTER-3'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":3, "data":"20/11/2023", "daCaricare" : true};
+matchs['EIRC-960-MASTER-4'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":4, "data":"17/12/2023", "daCaricare" : true};
+matchs['EIRC-960-MASTER-5'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":5, "data":"21/01/2024", "daCaricare" : true};
+    
 //EIRC-1700
 matchs['EIRC-1700-1'] = {"id":"1541603", "lega":"EIRC-1700", "giornata":"Q1", "data":"05/11/2023", "daCaricare" : true};
 matchs['EIRC-1700-2'] = {"id":"1547207", "lega":"EIRC-1700", "giornata":"Q2", "data":"26/11/2023", "daCaricare" : true};
