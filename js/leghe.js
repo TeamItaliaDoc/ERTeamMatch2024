@@ -60,7 +60,7 @@ matchs['CIS-Q-4'] = {"id":"1614821", "lega":"CIS-Q", "giornata":4, "data":"23/04
 
 //CIS - Finali
 matchs['CIS-F-1'] = {"id":"1654859", "lega":"CIS-F", "giornata":1, "data":"31/07/2024", "daCaricare" : true};
-matchs['CIS-F-2'] = {"id":"", "lega":"CIS-F", "giornata":2, "data":"21/08/2024", "daCaricare" : true};
+matchs['CIS-F-2'] = {"id":"1662571", "lega":"CIS-F", "giornata":2, "data":"21/08/2024", "daCaricare" : true};
 matchs['CIS-F-3'] = {"id":"", "lega":"CIS-F", "giornata":3, "data":"11/09/2024", "daCaricare" : true};
 matchs['CIS-F-4'] = {"id":"", "lega":"CIS-F", "giornata":4, "data":"02/10/2024", "daCaricare" : true};
 matchs['CIS-F-5'] = {"id":"", "lega":"CIS-F", "giornata":5, "data":"23/10/2024", "daCaricare" : true};
@@ -78,7 +78,7 @@ matchs['EIRC-1400-2'] = {"id":"1615821", "lega":"EIRC-1400", "giornata":2, "data
 matchs['EIRC-1400-3'] = {"id":"", "lega":"EIRC-1400", "giornata":3, "data":"26/03/2024", "daCaricare" : true};
 matchs['EIRC-1400-4'] = {"id":"1642337", "lega":"EIRC-1400", "giornata":4, "data":"30/06/2024", "daCaricare" : true};
 matchs['EIRC-1400-5'] = {"id":"1655211", "lega":"EIRC-1400", "giornata":5, "data":"04/08/2024", "daCaricare" : true};
-matchs['EIRC-1400-6'] = {"id":"", "lega":"EIRC-1400", "giornata":6, "data":"25/06/2024", "daCaricare" : true};
+matchs['EIRC-1400-6'] = {"id":"1662967", "lega":"EIRC-1400", "giornata":6, "data":"25/08/2024", "daCaricare" : true};
 matchs['EIRC-1400-7'] = {"id":"", "lega":"EIRC-1400", "giornata":7, "data":"30/07/2024", "daCaricare" : true};
 
 //EIRC-GRAND-PRIX
