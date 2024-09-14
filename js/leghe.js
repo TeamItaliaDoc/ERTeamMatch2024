@@ -80,7 +80,7 @@ matchs['EIRC-1400-3'] = {"id":"", "lega":"EIRC-1400", "giornata":3, "data":"26/0
 matchs['EIRC-1400-4'] = {"id":"1642337", "lega":"EIRC-1400", "giornata":4, "data":"30/06/2024", "daCaricare" : true};
 matchs['EIRC-1400-5'] = {"id":"1655211", "lega":"EIRC-1400", "giornata":5, "data":"04/08/2024", "daCaricare" : true};
 matchs['EIRC-1400-6'] = {"id":"1662967", "lega":"EIRC-1400", "giornata":6, "data":"25/08/2024", "daCaricare" : true};
-matchs['EIRC-1400-7'] = {"id":"", "lega":"EIRC-1400", "giornata":7, "data":"30/07/2024", "daCaricare" : true};
+matchs['EIRC-1400-7'] = {"id":"1677611", "lega":"EIRC-1400", "giornata":7, "data":"29/1/2024", "daCaricare" : true};
 
 //EIRC-GRAND-PRIX
 matchs['EIRC-GRAND-PRIX-1'] = {"id":"1572361", "lega":"EIRC-GRAND-PRIX", "giornata":'Q1', "data":"28/01/2024", "daCaricare" : true};
