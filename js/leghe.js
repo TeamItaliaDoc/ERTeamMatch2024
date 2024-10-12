@@ -18,8 +18,8 @@ matchs['EIRC-960-8'] = {"id":"", "lega":"EIRC-960", "giornata":8, "data":"16/04/
 //EIRC 960 Master
 matchs['EIRC-960-MASTER-1'] = {"id":"0", "lega":"EIRC-960-MASTER", "giornata":1, "data":"18/09/2023", "daCaricare" : false,
     "avversarioName":"Springer Niedersachsen","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};
-matchs['EIRC-960-MASTER-2'] = {"id":"1674373", "lega":"EIRC-960-MASTER", "giornata":2, "data":"22/11/2023", "daCaricare" : true};
-matchs['EIRC-960-MASTER-3'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":3, "data":"20/11/2023", "daCaricare" : true};
+matchs['EIRC-960-MASTER-2'] = {"id":"1674373", "lega":"EIRC-960-MASTER", "giornata":2, "data":"22/09/2024", "daCaricare" : true};
+matchs['EIRC-960-MASTER-3'] = {"id":"1686245", "lega":"EIRC-960-MASTER", "giornata":3, "data":"20/10/2024", "daCaricare" : true};
 matchs['EIRC-960-MASTER-4'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":4, "data":"17/12/2023", "daCaricare" : true};
 matchs['EIRC-960-MASTER-5'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":5, "data":"21/01/2024", "daCaricare" : true};
     
@@ -64,7 +64,7 @@ matchs['CIS-F-1'] = {"id":"1654859", "lega":"CIS-F", "giornata":1, "data":"31/07
 matchs['CIS-F-2'] = {"id":"1662571", "lega":"CIS-F", "giornata":2, "data":"21/08/2024", "daCaricare" : true};
 matchs['CIS-F-3'] = {"id":"1671153", "lega":"CIS-F", "giornata":3, "data":"11/09/2024", "daCaricare" : true};
 matchs['CIS-F-4'] = {"id":"1679457", "lega":"CIS-F", "giornata":4, "data":"02/10/2024", "daCaricare" : true};
-matchs['CIS-F-5'] = {"id":"", "lega":"CIS-F", "giornata":5, "data":"23/10/2024", "daCaricare" : true};  
+matchs['CIS-F-5'] = {"id":"1689449", "lega":"CIS-F", "giornata":5, "data":"23/10/2024", "daCaricare" : true};  
 matchs['CIS-F-6'] = {"id":"", "lega":"CIS-F", "giornata":6, "data":"13/11/2024", "daCaricare" : true};
 
 //EIRC-KN
