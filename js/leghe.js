@@ -40,7 +40,7 @@ matchs['EIRC-1400-1700-2'] = {"id":"1643989", "lega":"EIRC-1400-1700", "giornata
 matchs['EIRC-1400-1700-3'] = {"id":"1655203", "lega":"EIRC-1400-1700", "giornata":3, "data":"04/08/2024", "daCaricare" : true};
 matchs['EIRC-1400-1700-4'] = {"id":"1666195", "lega":"EIRC-1400-1700", "giornata":4, "data":"01/09/2024", "daCaricare" : true};
 matchs['EIRC-1400-1700-5'] = {"id":"1681187", "lega":"EIRC-1400-1700", "giornata":5, "data":"06/10/2024", "daCaricare" : true}; //Sfida lanciata https://www.chess.com/daily-team/seek/2995877
-matchs['EIRC-1400-1700-6'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":6, "data":"//2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-6'] = {"id":"1692371", "lega":"EIRC-1400-1700", "giornata":6, "data":"03/11/2024", "daCaricare" : true};
 matchs['EIRC-1400-1700-7'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":7, "data":"//2024", "daCaricare" : true};
 
 //EIRC-MASTER
