@@ -21,7 +21,7 @@ matchs['EIRC-960-MASTER-1'] = {"id":"0", "lega":"EIRC-960-MASTER", "giornata":1,
 matchs['EIRC-960-MASTER-2'] = {"id":"1674373", "lega":"EIRC-960-MASTER", "giornata":2, "data":"22/09/2024", "daCaricare" : true};
 matchs['EIRC-960-MASTER-3'] = {"id":"1686245", "lega":"EIRC-960-MASTER", "giornata":3, "data":"20/10/2024", "daCaricare" : true};
 matchs['EIRC-960-MASTER-4'] = {"id":"1697985", "lega":"EIRC-960-MASTER", "giornata":4, "data":"17/11/2024", "daCaricare" : true};
-matchs['EIRC-960-MASTER-5'] = {"id":"", "lega":"EIRC-960-MASTER", "giornata":5, "data":"21/01/2024", "daCaricare" : true};
+matchs['EIRC-960-MASTER-5'] = {"id":"1709719", "lega":"EIRC-960-MASTER", "giornata":5, "data":"15/02/2024", "daCaricare" : true};
     
 //EIRC-1700
 matchs['EIRC-1700-1'] = {"id":"1541603", "lega":"EIRC-1700", "giornata":"Q1", "data":"05/11/2023", "daCaricare" : true};
@@ -41,7 +41,7 @@ matchs['EIRC-1400-1700-3'] = {"id":"1655203", "lega":"EIRC-1400-1700", "giornata
 matchs['EIRC-1400-1700-4'] = {"id":"1666195", "lega":"EIRC-1400-1700", "giornata":4, "data":"01/09/2024", "daCaricare" : true};
 matchs['EIRC-1400-1700-5'] = {"id":"1681187", "lega":"EIRC-1400-1700", "giornata":5, "data":"06/10/2024", "daCaricare" : true}; //Sfida lanciata https://www.chess.com/daily-team/seek/2995877
 matchs['EIRC-1400-1700-6'] = {"id":"1692371", "lega":"EIRC-1400-1700", "giornata":6, "data":"03/11/2024", "daCaricare" : true};
-matchs['EIRC-1400-1700-7'] = {"id":"", "lega":"EIRC-1400-1700", "giornata":7, "data":"//2024", "daCaricare" : true};
+matchs['EIRC-1400-1700-7'] = {"id":"1707025", "lega":"EIRC-1400-1700", "giornata":7, "data":"08/12/2024", "daCaricare" : true};
 
 //EIRC-MASTER
 matchs['EIRC-MASTER-1'] = {"id":"0", "lega":"EIRC-MASTER", "giornata":1, "data":"19/11/2023", "daCaricare" : true,
